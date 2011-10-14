@@ -2,5 +2,5 @@
 
 main()
 {
-    printf("Goodbye, Ken\n") ;
+    printf("\aGoodbye, Ken\n") ;
 }
